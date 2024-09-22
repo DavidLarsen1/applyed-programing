@@ -1,14 +1,9 @@
 # Overview
 
-This is a basic python program for hello world I created this to show sudio code, githib and python intregated togather.
+This is a basic python program for hello world, I created this to show sudio code, githib and python intregated togather.
 
-{Provide a description of your software}
 
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+A demo of hello world video [Software Demo Video](https://youtu.be/KnimeJI1Z3s)
 
 # Development Environment
 
