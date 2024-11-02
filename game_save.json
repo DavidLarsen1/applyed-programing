@@ -1,1 +1,1 @@
-{"paddle_a_pos": [50, 250], "paddle_b_pos": [735, 250], "ball_pos": [185, 85], "ball_velocity": [-5, -5], "score_a": 1, "score_b": 0}
+{"paddle_a_pos": [50, 165], "paddle_b_pos": [735, 300], "ball_pos": [30, 70], "ball_velocity": [-5, 5], "score_a": 3, "score_b": 1}
